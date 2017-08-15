@@ -1,15 +1,17 @@
-# SpatialHotSpotsIdentification
+# Spatial HotSpots Identification
 
 ## how to compile the code
 
 --create a project in eclipse
+
 --create a package named com.dds.phase3
+
 --copy the Hotspots.java in this package and add the dependencies.
+
 --compile and run the code
+
 --export the jar
 
-
-***************************************************************
 
 ## How to run the code
 
@@ -19,10 +21,6 @@ Starting hadoop
 
  cd /usr/local/hadoop/sbin/
 ./start-all.sh 
-
-
-localhost:50070
-----------------------------------------------------------------------------------------
 
 
 ## Starting spark
