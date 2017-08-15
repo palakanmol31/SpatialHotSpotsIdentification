@@ -44,3 +44,11 @@ Go to /spark/bin folder and run the following command
 ./spark-submit --class com.dds.phase3.Hotspot  /home/hduser/Downloads/bitsplease_phase3.jar "/home/hduser/dds/yellow_tripdata_2015-01.csv" "/home/hduser/dds/bitsplease_phase3_result.csv"
 
 ## Implementation and Algorithm 
+
+https://github.com/palakanmol31/SpatialHotSpotsIdentification/blob/master/BitsPlease_phase3_report.pdf
+
+## Team Members 
+Palak Anmol - panmol@asu.edu
+Sahil Sikka - ssikka@asu.edu
+Ishita Pahwa - ipahwa1@asu.edu
+Yatharth Sharma - ysharma4@asu.edu
