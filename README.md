@@ -3,13 +3,9 @@
 ## how to compile the code
 
 --create a project in eclipse
-
 --create a package named com.dds.phase3
-
 --copy the Hotspots.java in this package and add the dependencies.
-
 --compile and run the code
-
 --export the jar
 
 
@@ -34,7 +30,7 @@ cd /home/hduser/spark-2.1.0-bin-hadoop2.7/sbin
 
 
 ./start-slaves.sh
-----------------------
+
 
 
 ## Running the jar file:
