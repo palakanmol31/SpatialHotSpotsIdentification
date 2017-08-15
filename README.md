@@ -49,6 +49,9 @@ https://github.com/palakanmol31/SpatialHotSpotsIdentification/blob/master/BitsPl
 
 ## Team Members 
 Palak Anmol - panmol@asu.edu
+
 Sahil Sikka - ssikka@asu.edu
+
 Ishita Pahwa - ipahwa1@asu.edu
+
 Yatharth Sharma - ysharma4@asu.edu
