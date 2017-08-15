@@ -42,3 +42,5 @@ The format of the command is below:
 
 Go to /spark/bin folder and run the following command
 ./spark-submit --class com.dds.phase3.Hotspot  /home/hduser/Downloads/bitsplease_phase3.jar "/home/hduser/dds/yellow_tripdata_2015-01.csv" "/home/hduser/dds/bitsplease_phase3_result.csv"
+
+## Implementation and Algorithm 
